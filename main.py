@@ -1,6 +1,7 @@
 from tkinter import *
 import random
 import math
+import time
 
 paragraphs = ["It was difficult for him to admit he was wrong. He had been so certain that he was correct and the "
               "deeply held belief could never be shaken. Yet the proof that he had been incorrect stood right "
